@@ -10,4 +10,4 @@
 - Jquery.
 
 ## Diferencial
-A inclusão de um componente React, no footer rederizado dentro do HTML, demostrando assim a possibilidade de futuras atualizações de codigos e tecnologias.
+A inclusão de um componente React, no footer renderizado dentro do HTML, demostrando assim a possibilidade de futuras atualizações de codigos e tecnologias.
